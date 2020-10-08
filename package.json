@@ -1,0 +1,24 @@
+{
+  "name": "vidly_node",
+  "version": "1.0.0",
+  "description": "movie customaization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriramsoumya02/vidly_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriramsoumya02/vidly_node/issues"
+  },
+  "homepage": "https://github.com/sriramsoumya02/vidly_node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.1",
+    "mongoose": "^5.10.7"
+  }
+}
